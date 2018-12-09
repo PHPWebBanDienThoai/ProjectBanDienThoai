@@ -1,0 +1,45 @@
+.Header select{
+    float: right;
+    padding: 2px 5px;
+}
+.Header {
+    margin-top: 10px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+.Content {
+    margin-top: 20px;
+}
+.table tr th {
+    background: rgb(52, 152,219);
+    color: white;
+    text-align: center;
+}
+.table tr td{
+    text-align: center;
+}
+.Content__right h4 {
+    border-bottom:  1px solid black;
+    padding-bottom: 10px;
+    color: rgb(52, 152,219);
+}
+.Content__right__form input{
+    padding: 5px 93px;
+    border-radius: 3px;
+    border: 1px solid #ddd;
+}
+.active{
+    padding:3px 8px !important;
+    margin-top: 10px;
+    margin-right: 50px;
+    background: rgb(52, 152,219);
+    color: white;
+    border: 1px solid #ddd;
+}
+.active:hover{
+    background: red;
+    color: white;
+}
+.red{
+    color: red;
+}

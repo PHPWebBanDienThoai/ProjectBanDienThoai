@@ -1,0 +1,107 @@
+.HeaderTop__left__form{
+    display: inline;
+    margin-left: 50px;
+}
+.HeaderTop{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 20px 0;
+}
+.cart{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.HeaderTop__left {
+    padding-left: 100px;
+}
+.HeaderTop__left select{
+    padding: 3px 0;
+}
+.login{
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    background-color: rgb(52, 152,219);
+    color: white;
+    border-radius: 5px;
+}
+.HeaderTop__right a{
+    text-decoration: none;
+}
+.HeaderTop__right {
+    padding-left: 350px;
+    margin-top: 8px;
+}
+.fa-search {
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    background-color: rgb(52, 152,219);
+    color: white;
+}
+.HeaderMiddle {
+    padding-left: 17%;
+    margin-bottom: 20px;
+}
+.Content-Top__tittle {
+    text-align: center;
+}
+.Content-Top__product__first {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.Content-Top__product__first:hover{
+    
+    box-shadow: 0 4px 5px 0, 0 6px 10px 0;
+    transition: box-shadow 0.5s; 
+    background-color: yellow;
+}
+.Content-Top__product {
+    margin-bottom: 10px;
+   
+}
+.Content-Top {
+    margin-bottom: 50px;
+}
+.Content-Top__product__first__img {
+    margin-top: 5px;
+}
+.Content-Top__product__first__para__money span{
+    color: red;
+    font-size: 15px;
+}
+.market {
+    font-size: 30px;
+    margin-top: 5px;
+}
+.market:hover{
+    color: red;
+    
+}
+.Content-Top__product__first__para__h4 a{
+    text-decoration: none;
+}
+.Follow h4{
+    display: inline;
+    margin-right: 40px;
+}
+.Follow {
+    padding-left: 35%;
+    margin-bottom: 20px;
+    color: grey;
+}
+.fa-facebook-square {
+    font-size: 20px;
+    margin-right: 20px;
+    color: grey;
+}
+.fa-twitter{
+    font-size: 20px;
+    color: grey;
+}
+.Footer{
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+    text-align: center;
+}
